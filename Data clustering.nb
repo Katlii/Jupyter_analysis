@@ -1,0 +1,24 @@
+-mam set dat  chceme jejich grupirovat do skupin, kde budou podobna data
+
+Techniky ktere se pouzivaji pro clustering:
+
+-FEATURE SELECTION METHODS 
+najít nejlepší sadu funkcí, která nám umožní vytvořit optimalizované modely studovaných jevů.
+*Supervised techniques
+*Unsupervised Techniques (Partitioning :K-means clustering, K--medians, K--medioids ---use a distance based metric)    Hierarchical clustering helps in vizualization and summarization)
+
+Types of FSM in ML:
+-Filter methods ( vyhodnotit každou funkci samostatně a vybrat nejvhodnější.)
+     *Information Gain (meri snizeni entropie (=neurcitosti) of the cluster labels, ktere lze dosahnout rozdelenim dat na zaklade urciteho znaku
+     * Chi-square test (for categorical data)
+     * Correlation Coefficient (míra vztahu mezi 2 proměnnými) 
+     *Fisher's Score (pro supervised)
+
+DATA TYPES IN CA
+	1) Categorical data -(example: gender, country of residence) often are used in chi-square test
+	2) Multimedia (image, video, audio)
+	3) Time-series data -(data that is collected over a period of time at regular intervals)
+	4) Discrete sequences -( data that is collected at specific intervals or points in time)
+	5) Network data (represents relationships or interactions between different entities, such as social networks, computer networks)
+	6) Uncertain data -(associated with some measure of uncertainty)
+	
